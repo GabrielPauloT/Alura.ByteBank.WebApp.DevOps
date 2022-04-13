@@ -6,6 +6,8 @@ namespace Alura.ByteBank.Dominio.Testes
 {
     public class AgenciaTestes
     {
+
+        //Adicionando comentário.
         [Fact]
         public void CriarObjetoAgenciaValido()
         {
